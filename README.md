@@ -19,7 +19,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, React
+- Frontend: HTML(<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+), CSS, React
 - Backend: Node.js, Express
 - Database: MongoDB
 - AI/Data: Python, Pandas, ML
