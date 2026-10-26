@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Richard 👋
+# Hi, I'm Richard.
 
 **Software Engineer | AI Systems Engineer | Product Builder**
 
